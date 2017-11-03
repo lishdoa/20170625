@@ -1,6 +1,5 @@
 # 20170625
 hello world
-郭树清：特别要注意防范信用风险和流动性风险 
 
 Click the README.md file.
 Click the
